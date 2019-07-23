@@ -5,7 +5,7 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'Blog', link: '/blog/' }
         ],
-        logo: '/worldroots.png'
+        logo: '/bloglogo.png'
     },
     plugins: [
 		[

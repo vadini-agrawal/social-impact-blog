@@ -1,4 +1,4 @@
-![Ethics in Tech](https://github.com/vadini-agrawal/image-repository/blob/master/images/tech-hand.jpg?raw=true "Tech and humanity")
+![Ethics in Tech](https://github.com/vadini-agrawal/image-repository/blob/master/images/people.png?raw=true "Tech and humanity")
 
 The ethical implications of technological innovation are becoming more and more apparent to us everyday. Whether the discussion is centered around data privacy or workers rights, there is a push towards holding technology accountable, something that I believe will be crucial to societal advancement. 
 
