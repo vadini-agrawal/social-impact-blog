@@ -1,3 +1,5 @@
+const path = require('path')
+
 module.exports = {
     title: 'Impact and Intention',
     themeConfig: {
@@ -7,6 +9,7 @@ module.exports = {
         ],
         logo: '/bloglogo.png'
     },
+    palette: path.resolve(__dirname, 'palette.styl'),
     plugins: [
 		[
 			'@vuepress/google-analytics',

@@ -7,8 +7,8 @@
             <router-link :to="post.path" style="text-decoration: none;" class="article-title">{{ post.frontmatter.title }}</router-link>
         </h2>
         
-        <p>{{ post.frontmatter.description }}</p> 
-        <p >Estimated time: {{ post.readingTime.text }}</p> <br>
+        <p>{{ post.frontmatter.description }}</p> <br> 
+        <!-- <p >Estimated time: {{ post.readingTime }}</p> <br> -->
 
         <router-link style="text-decoration: none;" class="read-more-btn link" tag="a" :to="post.path">Read more</router-link>
     </div>
