@@ -1,4 +1,4 @@
-![Ethics in Tech](https://github.com/vadini-agrawal/image-repository/blob/master/images/people.png?raw=true)
+![Ethics in Tech](./images/people.png)
 
 The ethical implications of technological innovation are becoming more and more apparent to us everyday. Whether the discussion is centered around data privacy or workers rights, there is a push towards holding technology accountable. With this, a movement is brewing to combine business with positive impact. A prosperous future for our world lies in sustainable design and products that uplift, but often times these products are not the ones getting the most attention. 
 
