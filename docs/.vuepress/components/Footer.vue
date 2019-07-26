@@ -58,14 +58,14 @@
         height: 25px;
         width: 65px;
         border: 1px solid #E77728;
-        color: #E77728;
+        color: white !important;
+        background-color: #E77728;
     }
 
     .submit:hover {
         height: 25px;
         width: 65px;
         border: 1px solid #E77728;
-        background-color: #E77728;
-        color: white;
+        color: #E77728 !important;
     }
 </style>
