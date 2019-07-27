@@ -1,6 +1,6 @@
 ---
 title: "Libra: A Currency for All"
-date: 2019-17-06
+date: 07-24-2019
 description:
    What happens when big tech tries to solve the age-old problem of exchanging value efficiently? Libra happens, and it could change the way we pay for things. 
 ---
