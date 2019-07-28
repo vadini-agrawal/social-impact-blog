@@ -8,9 +8,9 @@
                 <p> Built and Written by Vadini Agrawal</p>
                 </div>
                 <div class="content content2">
-                <a href="https://www.twitter.com/@a_vadini" target="_blank"><img src="../public/twitter-icon.png"  alt="Twitter Icon" style=" padding-right: 1rem;"/></a>
-                <a href="https://www.vadiniagrawal.com" target="_blank"><img src="../public/website-cursor.png"  alt="Website Icon" style=" padding-left: 1rem; padding-right: 1rem;"/></a>
-                <a href="https://github.com/vadini-agrawal/social-impact-blog" target="_blank"><img src="../public/github-icon.png"  alt="Github Icon" style=" padding-left: 1rem; "/></a>
+                <a href="https://www.twitter.com/@a_vadini" target="_blank"><img src="../public/twitter-icon.png"  alt="Twitter Icon" style=" padding-right: 4%;"/></a>
+                <a href="https://www.vadiniagrawal.com" target="_blank"><img src="../public/website-cursor.png"  alt="Website Icon" style=" padding-right: 4%;"/></a>
+                <a href="https://github.com/vadini-agrawal/social-impact-blog" target="_blank"><img src="../public/github-icon.png"  alt="Github Icon" /></a>
                 </div>
             </div> <br> <br> 
         </div> <br>
