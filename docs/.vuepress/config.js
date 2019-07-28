@@ -1,7 +1,7 @@
 const path = require('path')
 
 module.exports = {
-    title: 'Impact and Intention',
+    title: 'Impact and Intentions',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },

@@ -46,7 +46,7 @@ link {
     padding: 0.5rem;
     border-radius: 0.25rem; 
     background-color:#E77728;
-    color: white;
+    color: white !important;
     font-size: 1rem;
      border: 1px #E77728 solid; 
     transition: background-color 0.05s ease-in, color 0.05s ease-in;
@@ -57,7 +57,7 @@ link {
     padding: 0.5rem;
     border-radius: 0.25rem; 
     background-color: white;
-    color: #E77728;
+    color: #E77728 !important;
     font-size: 1rem;
     border: 1px #E77728 solid;
     transition: background-color 0.05s ease-in, color 0.05s ease-in;
