@@ -7,6 +7,8 @@
             <router-link :to="post.path" style="text-decoration: none;" class="article-title">{{ post.frontmatter.title }}</router-link>
         </h2>
         
+        <p>{{ post.frontmatter.date }}</p> 
+
         <p>{{ post.frontmatter.description }}</p> <br> 
         <!-- <p >Estimated time: {{ post.readingTime }}</p> <br> -->
 
@@ -44,7 +46,7 @@ link {
     padding: 0.5rem;
     border-radius: 0.25rem; 
     background-color:#E77728;
-    color: white !important;
+    color: white;
     font-size: 1rem;
      border: 1px #E77728 solid; 
     transition: background-color 0.05s ease-in, color 0.05s ease-in;

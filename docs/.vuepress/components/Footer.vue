@@ -67,5 +67,6 @@
         width: 65px;
         border: 1px solid #E77728;
         color: #E77728 !important;
+        background-color: white;
     }
 </style>
