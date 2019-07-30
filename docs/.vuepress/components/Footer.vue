@@ -60,6 +60,10 @@
         border: 1px solid #E77728;
         color: white !important;
         background-color: #E77728;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        opacity: 1;
     }
 
     .submit:hover {
@@ -68,5 +72,9 @@
         border: 1px solid #E77728;
         color: #E77728 !important;
         background-color: white;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        opacity: 1;
     }
 </style>
