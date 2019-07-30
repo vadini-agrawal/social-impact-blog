@@ -16,7 +16,7 @@
         </div> <br>
         <form class="subscribe" action="https://tinyletter.com/impactandintentions" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/impactandintentions', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
           Sign up to hear about new articles: <input class="form" type="text" style="width:140px" name="email" id="tlemail" /> &nbsp &nbsp
-            <input type="hidden" value="1" name="embed"/><input class="submit" type="submit" value="Subscribe" /> &nbsp &nbsp powered by TinyLetter
+            <input type="hidden" value="1" name="embed"/><input class="submit" type="submit" value="Subscribe " /> &nbsp &nbsp powered by TinyLetter
             </p>
         </form> 
     </footer>
@@ -56,7 +56,8 @@
     }
     .submit {
         height: 25px;
-        width: 65px;
+        width: 70px;
+        text-align: center;
         border: 1px solid #E77728;
         color: white !important;
         background-color: #E77728;
@@ -68,7 +69,8 @@
 
     .submit:hover {
         height: 25px;
-        width: 65px;
+        width: 70px;
+        text-align: center;
         border: 1px solid #E77728;
         color: #E77728 !important;
         background-color: white;
